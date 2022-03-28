@@ -2,7 +2,8 @@
 - 👀 I’m interested in Front-End also Back-End Developer
 - 🌱 I’m currently learning HTML, CSS, SQL, and Javascript
 - 💞️ I’m looking to collaborate on anything! i eager to learn something new and exciting!
-- 📫 How to reach me (twitter/linkedin/insagran=m : @alfadlyrizki) or email me : alfadlyrizki@gmail.com
+- 📫 How to reach me (twitter/linkedin/insagran=m : @alfadlyrizki) 
+- or email me : alfadlyrizki@gmail.com
 
 <!---
 alfadlyrizki/alfadlyrizki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
