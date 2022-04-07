@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End also Back-End Developer
 - 🌱 I’m currently learning HTML, CSS, SQL, and Javascript
 - 💞️ I’m looking to collaborate on anything! i eager to learn something new and exciting!
-- 📫 How to reach me (twitter/linkedin/insagram : @alfadlyrizki) 
+- 📫 How to reach me (twitter/linkedin/instagram : @alfadlyrizki) 
 - or email me : alfadlyrizki@gmail.com
 
 <!---
